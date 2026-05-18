@@ -2,13 +2,13 @@
 
 A seduction coach offering personal coaching services, likely focused on helping clients improve their confidence, social skills, and romantic success. The brand likely carries a bold, charismatic, and empowering personality aimed at transforming clients' dating and interpersonal lives.
 
-Source: https://-3ac9ea1d.zappy5.app
+Source: https://example.com
 
 ---
 
 ## Seduction Coaching — קוד הפיתוי
 
-URL: https://-3ac9ea1d.zappy5.app
+URL: https://example.com
 Description: A seduction coach offering personal coaching services, likely focused on helping clients improve their confidence, social skills, and romantic success. The bran
 
 Seduction Coaching — קוד הפיתוי
@@ -728,7 +728,7 @@ Seduction Coaching — קוד הפיתוי
 
 ## מדיניות פרטיות
 
-URL: https://-3ac9ea1d.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -998,7 +998,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-3ac9ea1d.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1277,7 +1277,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-3ac9ea1d.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
