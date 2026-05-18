@@ -1,0 +1,66 @@
+# קוד הפיתוי — Generative Engine Optimization Map
+
+> A seduction coach offering personal coaching services, likely focused on helping clients improve their confidence, social skills, and romantic success. The brand likely carries a bold, charismatic, and empowering personality aimed at transforming clients' dating and interpersonal lives.
+
+---
+
+## Pages
+
+### בית
+https://-3ac9ea1d.zappy5.app
+A seduction coach offering personal coaching services, likely focused on helping clients improve their confidence, social skills, and romantic success. The bran
+
+## Legal & Policy
+
+### Privacy Policy
+https://-3ac9ea1d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-3ac9ea1d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-3ac9ea1d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-3ac9ea1d.zappy5.app
+- Endpoint: https://-3ac9ea1d.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קוד הפיתוי
+A seduction coach offering personal coaching services, likely focused on helping clients improve their confidence, social skills, and romantic success. The brand likely carries a bold, charismatic, and empowering personality aimed at transforming clients' dating and interpersonal lives.
+
+## Target Audience
+- רווקים צעירים
+- מקצוענים לשיפור כישורים חברתיים
+- גברים גרושים טריים
+
+## Industry
+Seduction Coaching
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-3ac9ea1d.zappy5.app/sitemap.xml
+- Robots: https://-3ac9ea1d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-3ac9ea1d.zappy5.app/llms-full.txt
